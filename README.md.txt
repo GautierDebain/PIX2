@@ -44,7 +44,8 @@ d'une base de données complète sur les images photographiées.
 3. Description fonctionnelle 
 
 3.1. Cas d'utilisation 
-![alt tag](https://raw.githubusercontent.com/GautierDebain/PIX2/master/SchemaUtilisationAppareilConnecte.PNG)
+
+      ![alt tag](https://raw.githubusercontent.com/GautierDebain/PIX2/master/SchemaUtilisationAppareilConnecte.PNG)
 
 
  
