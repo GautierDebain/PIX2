@@ -44,7 +44,7 @@ d'une base de donn�es compl�te sur les images d�j� photographi�es.
 3. Description fonctionnelle 
 
 3.1. Cas d'utilisation 
-![alt tag](https://raw.githubusercontent.com/GautierDebain/PIX2/master/Sch%C3%A9ma%20utilisation%20Appareil%20Connect%C3%A9.PNG)
+![alt tag](https://raw.githubusercontent.com/GautierDebain/PIX2/master/SchemaUtilisationAppareilConnecte.PNG)
 
 
  
