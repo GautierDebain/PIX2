@@ -36,7 +36,7 @@ Il s'adresse donc à toutes les tranches de la populations, que l'on considère 
 
 L'appareil photographie une  image concernant un film, l'envoie sur Google Image, prend en compte "L'hypothèse la plus probable pour 
 cette image" et fais la recherche de son nom sur Allociné. De cette manière il affiche les informations concernant le film.
-Parallemment, l'appareil envoie les photos sur une plateforme en ligne o� il enregistre les photos et y associe leur nom afin de disposer
+Parallemment, l'appareil envoie les photos sur une plateforme en ligne où il enregistre les photos et y associe leur nom afin de disposer
 d'une base de données complète sur les images dejà photographiées. 
 
  
