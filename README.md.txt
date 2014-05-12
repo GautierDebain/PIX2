@@ -41,15 +41,15 @@ d'une base de données complète sur les images déjà photographiées.
 
  
 
-4. Description fonctionnelle 
+3. Description fonctionnelle 
 
-4.1. Cas d'utilisation 
-![alt tag](
+3.1. Cas d'utilisation 
+![alt tag]()
 
 
  
 
-4.2. Diagramme états-transitions 
+3.2. Diagramme états-transitions 
 
 A faire : 
 
